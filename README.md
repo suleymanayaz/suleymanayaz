@@ -1,23 +1,24 @@
 
 <h1 align="center">
-  I'm a computer engineer student at the University of Kocaeli 
+  I'm a computer engineer student at the University of Kocaeli <br> <br/>
+  
+
+  <a href="https://www.linkedin.com/in/suleyman-ayaz-/" rel="nofollow"> <img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" alt="Linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" height="40"></a>
+<a href = "mailto: suleyman.ayaz@arcelik.com">   <img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="Email" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;" height="40"> 
+  
+   ![Profile views](https://gpvc.arturio.dev/suleymanayaz)  
 </h1>
 
-<p  align="center">
+
+
 
  
-  <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz" style="max-width:100%;"> 
- <a href="https://github.com/suleymanayaz"><img src="https://camo.githubusercontent.com/b1a5eb3bf0784092870685d3150467e876a20ca439a426370916da4f1535323d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f43686172616c616d626f73496f616e6e6f753f6c6162656c3d466f6c6c6f77657273266c6f676f3d476974687562" alt="Github" data-canonical-src="https://img.shields.io/github/followers/suleymanayaz?label=Followers&amp;logo=Github" style="max-width:100%;"></a>
-
-</p>
 
 
-## ✉️ Find me on:
-<p align="center"
- 
-<a href="https://www.linkedin.com/in/suleyman-ayaz-/" rel="nofollow"> <img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" alt="Linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" height="40"></a>
-<a href="suleyman.ayaz@arcelik.com"> <img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="Email" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;" height="40"></a>
-</p>
+</a>
+<img alt="GIF" src="https://i.giphy.com/media/pWvLC19Vep3zPzJqsV/giphy.webp?raw=true" style="max-width:100%;" width="450" height="350" align="right"></a>
+
+
 
 
 ## 🧰 Languages and Tools:
@@ -39,5 +40,4 @@
 ![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## 
-![Profile views](https://gpvc.arturio.dev/suleymanayaz)
+
