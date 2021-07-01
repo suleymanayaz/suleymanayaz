@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz" style="max-width:100%;">
 </p>
 
-![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=gradient)
+![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
