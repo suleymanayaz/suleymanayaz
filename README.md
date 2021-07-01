@@ -1,4 +1,7 @@
-### 🎓 I'm a computer engineer student at the University of Kocaeli 👋 
+
+<h1 align="center">
+ 🎓 I'm a computer engineer student at the University of Kocaeli 👋 
+</h1>
 
 <p  align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75"></a>
