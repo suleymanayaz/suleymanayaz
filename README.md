@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/mssql-sql-server-icon-png-15.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz)
