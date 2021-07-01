@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
-<img src="https://pbs.twimg.com/profile_images/1280930967025119232/cna8fSA7_400x400.jpg" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img2.pngindir.com/20180424/dce/kisspng-elasticsearch-kibana-json-logstash-scalability-elastic-5adf2c41767256.4205794215245752974852.jpg" alt="Elastic" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i2.wp.com/xtremeownage.com/wp-content/uploads/2019/09/Splunk_Icon.png?fit=412%2C412&ssl=1" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/elastic-283142.png" alt="Elastic" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz)
