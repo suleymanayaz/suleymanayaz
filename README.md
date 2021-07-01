@@ -1,16 +1,10 @@
 
 ## 🎓 I'm a computer engineer student at the University of Kocaeli 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75"></a>
+ <img src="https://camo.githubusercontent.com/62599d2d7ea728ba2571baf5fb1e843512216345993948dc4657172e57bb00c2/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d43686172616c616d626f73496f616e6e6f752e43686172616c616d626f73496f616e6e6f75" alt="" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz" style="max-width:100%;"> 
+ <a href="https://github.com/suleymanayaz"><img src="https://camo.githubusercontent.com/b1a5eb3bf0784092870685d3150467e876a20ca439a426370916da4f1535323d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f43686172616c616d626f73496f616e6e6f753f6c6162656c3d466f6c6c6f77657273266c6f676f3d476974687562" alt="Github" data-canonical-src="https://img.shields.io/github/followers/suleymanayaz?label=Followers&amp;logo=Github" style="max-width:100%;"></a>
+</p>
 
 ## ✉️ Find me on:
 <p align="center"
@@ -32,9 +26,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.iconscout.com/icon/free/png-512/elastic-283142.png" alt="Elastic" height="40" style="vertical-align:top; margin:4px">
 <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz" style="max-width:100%;">
 </p>
-
 ##
 ![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
 ##
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
