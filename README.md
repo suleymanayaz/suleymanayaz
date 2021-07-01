@@ -1,6 +1,6 @@
 
 <h1 align="center">
- 🎓 I'm a computer engineer student at the University of Kocaeli 👋 
+  I'm a computer engineer student at the University of Kocaeli 
 </h1>
 
 <p  align="center">
