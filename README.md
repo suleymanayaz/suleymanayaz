@@ -1,5 +1,5 @@
 
-##🎓 I'm a computer engineer student at the University of Kocaeli 👋
+## 🎓 I'm a computer engineer student at the University of Kocaeli 👋
 
 Here are some ideas to get you started:
 
