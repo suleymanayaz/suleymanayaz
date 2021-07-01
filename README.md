@@ -16,7 +16,7 @@
 
 
 </a>
-<img alt="GIF" src="https://i.giphy.com/media/pWvLC19Vep3zPzJqsV/giphy.webp?raw=true" style="max-width:100%;" width="450" height="350" align="right"></a>
+<img alt="GIF" src="https://i.giphy.com/media/pWvLC19Vep3zPzJqsV/giphy.webp?raw=true" style="max-width:100%;" width="300" height="330" align="right"></a>
 
 
 
