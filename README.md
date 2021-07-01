@@ -4,14 +4,10 @@
 </h1>
 
 <p  align="center">
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz)
-  
- <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz" style="max-width:100%;"> 
-  
+
+ 
+  <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz" style="max-width:100%;"> 
  <a href="https://github.com/suleymanayaz"><img src="https://camo.githubusercontent.com/b1a5eb3bf0784092870685d3150467e876a20ca439a426370916da4f1535323d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f43686172616c616d626f73496f616e6e6f753f6c6162656c3d466f6c6c6f77657273266c6f676f3d476974687562" alt="Github" data-canonical-src="https://img.shields.io/github/followers/suleymanayaz?label=Followers&amp;logo=Github" style="max-width:100%;"></a>
-  
-  <img src='https://s6.gifyu.com/images/suleymanayazs-2020-GitHub-Skyline--Firefox-Developer-Edition-2021-07-01-21-56-00.gif' class='gif' />
 
 </p>
 
@@ -43,4 +39,5 @@
 ![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+## 
+![Profile views](https://gpvc.arturio.dev/suleymanayaz)
