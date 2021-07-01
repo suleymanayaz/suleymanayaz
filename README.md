@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/splunk-569578.png" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img1.pngindir.com/20180824/tzl/kisspng-logo-elasticsearch-kibana-logstash-database-5b804d3f411d62.3432187415351350392667.jpg" alt="Elastic" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pbs.twimg.com/profile_images/1280930967025119232/cna8fSA7_400x400.jpg" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img2.pngindir.com/20180424/dce/kisspng-elasticsearch-kibana-json-logstash-scalability-elastic-5adf2c41767256.4205794215245752974852.jpg" alt="Elastic" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz)
