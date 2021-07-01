@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 
 ![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=highcontrast)
 
-<img data-canonical-src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=suleymanayaz&hide=php&theme=tokyonight" style="max-width:100%;" align="left">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
