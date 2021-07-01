@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 
 </p>
 ![](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz.suleymanayaz)
-![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=onedark)
+
+![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=highcontrast)
 
