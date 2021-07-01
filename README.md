@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 <a href="https://www.linkedin.com/in/suleyman-ayaz-/" rel="nofollow"> <img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" alt="Linkedin" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;" height="40"></a>
 <a href="suleyman.ayaz@arcelik.com"> <img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="Email" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;" height="40"></a>
-  /p>
+  >
 
 ## 🧰 Languages and Tools:
 <p align="center">
