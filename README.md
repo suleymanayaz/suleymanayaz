@@ -4,7 +4,8 @@
 </h1>
 
 <p  align="center">
-![](https://komarev.com/ghpvc/?username=suleymanayaz&style=flat-square)
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz)
   
  <img data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=suleymanayaz" style="max-width:100%;"> 
   
