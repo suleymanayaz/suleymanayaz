@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
 
   
 </p>
