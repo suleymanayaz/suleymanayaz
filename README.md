@@ -1,7 +1,5 @@
-### Süleyman Ayaz 👋
 
-<!--
-**suleymanayaz/suleymanayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 I'm a computer engineer student at the University of Kocaeli 👋
 
 Here are some ideas to get you started:
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
