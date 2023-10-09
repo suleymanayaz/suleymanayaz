@@ -4,7 +4,10 @@
   
 
   <a href="https://www.linkedin.com/in/suleyman-ayaz-/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin" style="max-width:100%;" height="40"></a>
-<a href = "mailto: suleyman.ayaz@arcelik.com">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722"  alt="Email"  style="max-width:100%;" height="40"> 
+<a href = "mailto: suleyman.ayaz.edu@gmail.com">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png?20160314153722"  alt="Email"  style="max-width:100%;" height="40"> 
+
+
+
 </h1>
 
 
@@ -19,6 +22,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
@@ -36,7 +40,8 @@
 
   
 ## 
-![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact&theme=radical&langs_count=10&card_width=445&exclude_repo=GameProject,MyDictionary,ClassMethodDemo)](https://github.com/suleymanayaz/)<br>
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanayaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleymanayaz&show_icons=true&theme=tokyonight)
 
