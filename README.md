@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  I'm a Software and Integration Engineer  <br> <br/>
+  I'm a Software and Integration Developer  <br> <br/>
   
 
   <a href="https://www.linkedin.com/in/suleyman-ayaz-/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png" alt="Linkedin" style="max-width:100%;" height="40"></a>
